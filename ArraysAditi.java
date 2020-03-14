@@ -6,7 +6,7 @@
  */
 import java.util.*;
 import java.io.*;
-public class A3Aditi {
+public class ArraysAditi {
 	public static void main(String [] args) {
 		Scanner userInput = new Scanner(System.in);
 		Scanner in;
